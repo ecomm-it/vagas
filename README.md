@@ -1,5 +1,5 @@
 <p align="center">
-<img src="todo" width="400" alt="Ecomm-IT">
+<img src="https://github.com/ecomm-it/brand/blob/master/ecomm-ti.png" width="400" alt="Ecomm-IT">
 </p>
 <h1 align="center">Vagas</h1>
 <p align="center">:microscope: Espaço para divulgação de vagas da EcommIT.</p>
